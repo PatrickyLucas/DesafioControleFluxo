@@ -20,7 +20,6 @@ DesafioControleFluxo/
 │   ├── Contador.java
 │   ├── ParametrosInvalidosException.java
 │── README.md
-│── .gitignore
 ```
 
 ## 🛠 Como Executar
