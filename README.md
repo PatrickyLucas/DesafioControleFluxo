@@ -69,5 +69,5 @@ Caso o usuário insira valores inválidos, o sistema lançará uma exceção `Pa
 
 ## 📌 Autor
 
-Desenvolvido por [Patricky Lucas](https://github.com/PatrickyLucas).
+Desenvolvido por [Patricky Lucas](https://www.linkedin.com/in/patrickylucas/).
 
